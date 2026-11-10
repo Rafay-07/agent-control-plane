@@ -1,4 +1,4 @@
-"""Evaluation harness. Runs fixed cases and scores tool choice, groundedness
+cp/"""Evaluation harness. Runs fixed cases and scores tool choice, groundedness
 (numbers in the answer must come from a tool result), cost and blocked unsafe input."""
 from .agent import Agent
 from .memory import Memory
